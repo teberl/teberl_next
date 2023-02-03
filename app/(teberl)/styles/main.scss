@@ -1,0 +1,17 @@
+/*************************** Define Theme Variables ****************************/
+@import "./theme/theme-1.scss";
+
+/*************************** Import Bootstrap  *****************************/
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";
+
+/*************************** Import Bootstrap Icons *****************************/
+@import "../../../node_modules/bootstrap-icons/font/bootstrap-icons.scss";
+
+/*************************** Theme Styles Section ****************************/
+@import "./theme/styles.scss";
+
+/*************************** Custom Styles Section ****************************/
+hr:not([size]) {
+    height: 1px;
+}
+
