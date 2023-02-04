@@ -1,12 +1,12 @@
 export default function Head() {
   return (
     <>
-      <title>My digital home</title>
+      <title>Thomas Eberl, Senior Software Engineer</title>
       <meta charSet="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta
         name="description"
-        content="This is the digital web presence of Thomas Eberl, a passionate Software Engineer based in Munich/Germany."
+        content="This is the digital web presence of Thomas Eberl, a Senior Software Engineer based in Munich/Germany."
       />
       <meta name="author" content="Thomas Eberl" />
       <link

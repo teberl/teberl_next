@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import profilePicture from "../../public/portrait_square.jpg";
+import profilePicture from "../../../public/portrait_square.jpg";
 
 import NavbarToggler from "./NavbarToggler";
 
@@ -26,8 +26,8 @@ export default function Header() {
               />
 
               <div className="bio mb-3">
-                Hi, my name is Thomas and I am a senior software engineer @
-                ZEISS. Welcome to my personal website!
+                Hi, my name is Thomas and I am a senior software engineer
+                @ZEISS. Welcome to my personal website!
               </div>
 
               <ul className="social-list list-inline py-2 mx-auto">
